@@ -1,0 +1,13 @@
+{
+  "chats": [
+    {
+      "id": "msg_mswvqvjv2af5",
+      "fromUserId": "user_mswvbkqbu8p7",
+      "toUserId": "guest_mswu18h9qk0l",
+      "content": "7788",
+      "type": "text",
+      "timestamp": 1786949755195,
+      "read": false
+    }
+  ]
+}

@@ -29,7 +29,7 @@
       "userName": "king123456789",
       "role": "owner",
       "joinedAt": 1786979694090,
-      "isActive": true
+      "isActive": false
     }
   ]
 }

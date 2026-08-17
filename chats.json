@@ -26,6 +26,15 @@
       "type": "text",
       "timestamp": 1786962999480,
       "read": false
+    },
+    {
+      "id": "msg_msx3o4ja16j4",
+      "fromUserId": "user_mswvbkqbu8p7",
+      "toUserId": "guest_msx3hio0xw50",
+      "content": "还不懂是吧😡",
+      "type": "text",
+      "timestamp": 1786963063799,
+      "read": false
     }
   ]
 }

@@ -18,7 +18,8 @@
       "creatorId": "user_mswvbkqbu8p7",
       "creatorName": "78物业",
       "createdAt": 1786963183479,
-      "memberCount": 1
+      "memberCount": 1,
+      "isDeleted": true
     },
     {
       "groupId": "group_msx86n9a61sj",

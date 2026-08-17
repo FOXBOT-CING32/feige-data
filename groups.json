@@ -32,6 +32,18 @@
       "memberCount": 1,
       "isDeleted": true,
       "type": "group"
+    },
+    {
+      "groupId": "group_msxdkiowf9o0",
+      "groupCode": "290613",
+      "groupName": "15842",
+      "avatar": "",
+      "creatorId": "user_msxdhdzfv6m8",
+      "creatorName": "king123456789",
+      "createdAt": 1786979691681,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group"
     }
   ]
 }

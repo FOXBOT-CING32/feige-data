@@ -8,6 +8,15 @@
       "type": "text",
       "timestamp": 1786949755195,
       "read": false
+    },
+    {
+      "id": "msg_mswvr9ivzq1y",
+      "fromUserId": "user_mswvbkqbu8p7",
+      "toUserId": "guest_mswu18h9qk0l",
+      "content": "我觉得好神圣",
+      "type": "text",
+      "timestamp": 1786949773303,
+      "read": false
     }
   ]
 }

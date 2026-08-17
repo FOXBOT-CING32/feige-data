@@ -19,6 +19,18 @@
       "creatorName": "78物业",
       "createdAt": 1786963183479,
       "memberCount": 1
+    },
+    {
+      "groupId": "group_msx86n9a61sj",
+      "groupCode": "099443",
+      "groupName": "DSMOD的聊天群",
+      "avatar": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/avatars/avatar_group_temp_1786970633681.png",
+      "creatorId": "user_mswvbkqbu8p7",
+      "creatorName": "78物业",
+      "createdAt": 1786970646334,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group"
     }
   ]
 }

@@ -22,6 +22,18 @@
       "birthday": "",
       "phone": "",
       "wechat": ""
+    },
+    {
+      "userId": "guest_msx3hio0xw50",
+      "email": "",
+      "password": "",
+      "nickname": "FG_KTUKU7100",
+      "type": "guest",
+      "gender": "保密",
+      "region": "未知",
+      "signature": "游客模式，畅游飞鸽",
+      "avatar": "",
+      "registerTime": 1786962755520
     }
   ]
 }

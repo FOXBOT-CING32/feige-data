@@ -13,6 +13,14 @@
       "userName": "78物业",
       "role": "owner",
       "joinedAt": 1786963185157
+    },
+    {
+      "groupId": "group_msx86n9a61sj",
+      "userId": "user_mswvbkqbu8p7",
+      "userName": "78物业",
+      "role": "owner",
+      "joinedAt": 1786970648629,
+      "isActive": true
     }
   ]
 }

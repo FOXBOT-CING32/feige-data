@@ -44,6 +44,18 @@
       "memberCount": 1,
       "isDeleted": true,
       "type": "group"
+    },
+    {
+      "groupId": "group_msxeofl2h7ue",
+      "groupCode": "223438",
+      "groupName": "聊天群",
+      "avatar": "",
+      "creatorId": "user_msxdhdzfv6m8",
+      "creatorName": "king123456789",
+      "createdAt": 1786981553894,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group"
     }
   ]
 }

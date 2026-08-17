@@ -56,6 +56,18 @@
       "memberCount": 1,
       "isDeleted": false,
       "type": "group"
+    },
+    {
+      "groupId": "group_msxeomf5lopk",
+      "groupCode": "075689",
+      "groupName": "聊天群",
+      "avatar": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/avatars/avatar_group_temp_1786981548569.png",
+      "creatorId": "user_msxdhdzfv6m8",
+      "creatorName": "king123456789",
+      "createdAt": 1786981562753,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group"
     }
   ]
 }

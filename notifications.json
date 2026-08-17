@@ -8,6 +8,15 @@
       "toUserId": "user_mswvbkqbu8p7",
       "status": "accepted",
       "timestamp": 1786962811711
+    },
+    {
+      "id": "notif_msxto26wwtfj",
+      "type": "friend_request",
+      "fromUserId": "user_msxdhdzfv6m8",
+      "fromUserName": "FOX BOT",
+      "toUserId": "user_mswvbkqbu8p7",
+      "status": "pending",
+      "timestamp": 1787006730776
     }
   ]
 }

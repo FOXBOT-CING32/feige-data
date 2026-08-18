@@ -1,3 +1,14 @@
 {
-  "friends": []
+  "friends": [
+    {
+      "userId": "user_msxdhdzfv6m8",
+      "friendId": "user_mswvbkqbu8p7",
+      "timestamp": 1787013325852
+    },
+    {
+      "userId": "user_mswvbkqbu8p7",
+      "friendId": "user_msxdhdzfv6m8",
+      "timestamp": 1787013325852
+    }
+  ]
 }

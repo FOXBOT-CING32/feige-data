@@ -8,6 +8,15 @@
       "type": "text",
       "timestamp": 1787013476656,
       "read": true
+    },
+    {
+      "id": "msg_msxxq4cgiccr",
+      "fromUserId": "user_msxdhdzfv6m8",
+      "toUserId": "user_mswvbkqbu8p7",
+      "content": "在",
+      "type": "text",
+      "timestamp": 1787013545344,
+      "read": false
     }
   ]
 }

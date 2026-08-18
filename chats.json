@@ -17,6 +17,15 @@
       "type": "text",
       "timestamp": 1787013545344,
       "read": true
+    },
+    {
+      "id": "msg_msxxr9fjsjoc",
+      "fromUserId": "user_mswvbkqbu8p7",
+      "toUserId": "user_msxdhdzfv6m8",
+      "content": "666",
+      "type": "text",
+      "timestamp": 1787013598591,
+      "read": false
     }
   ]
 }

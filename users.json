@@ -17,6 +17,20 @@
         "friendRequest": "all"
       },
       "uid": "320ZWBF6"
+    },
+    {
+      "userId": "guest_mt0mwb4bjx6t",
+      "uid": "101IEMLL",
+      "email": "",
+      "password": "",
+      "nickname": "FG_ETAYO1843",
+      "type": "guest",
+      "gender": "保密",
+      "region": "未知",
+      "signature": "游客模式，畅游飞鸽",
+      "avatar": "",
+      "registerTime": 1787176756811,
+      "verifyCode": ""
     }
   ]
 }

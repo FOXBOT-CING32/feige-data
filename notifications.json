@@ -1,1 +1,13 @@
-
+{
+  "notifications": [
+    {
+      "id": "notif_mt0n0h4z3q1m",
+      "type": "friend_request",
+      "fromUserId": "guest_mt0mwb4bjx6t",
+      "fromUserName": "FG_ETAYO1843",
+      "toUserId": "user_mszw2cit2iq7",
+      "status": "pending",
+      "timestamp": 1787176951235
+    }
+  ]
+}

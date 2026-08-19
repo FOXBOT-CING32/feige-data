@@ -1,1 +1,14 @@
-
+{
+  "friends": [
+    {
+      "userId": "user_mt0n1lxzt33z",
+      "friendId": "guest_mt0mwb4bjx6t",
+      "timestamp": 1787177052472
+    },
+    {
+      "userId": "guest_mt0mwb4bjx6t",
+      "friendId": "user_mt0n1lxzt33z",
+      "timestamp": 1787177052472
+    }
+  ]
+}

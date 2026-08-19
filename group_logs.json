@@ -1,0 +1,14 @@
+{
+  "logs": [
+    {
+      "id": "log_mt0mqbest4lj",
+      "groupId": "group_mszw73rfj5ah",
+      "operatorId": "user_mszw2cit2iq7",
+      "operatorName": "",
+      "action": "解散群聊",
+      "targetId": null,
+      "detail": "群聊已解散",
+      "timestamp": 1787176477252
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-
+{
+  "users": [
+    {
+      "userId": "user_mszw2cit2iq7",
+      "email": "19168634005@qq.com",
+      "password": "123456a",
+      "nickname": "19168634005",
+      "gender": "保密",
+      "region": "地球",
+      "signature": "这个人很懒，什么都没写",
+      "avatar": "",
+      "registerTime": 1787131688933
+    }
+  ]
+}

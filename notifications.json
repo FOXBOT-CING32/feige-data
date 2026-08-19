@@ -8,6 +8,15 @@
       "toUserId": "user_mszw2cit2iq7",
       "status": "pending",
       "timestamp": 1787176951235
+    },
+    {
+      "id": "notif_mt0n1xvue6wb",
+      "type": "friend_request",
+      "fromUserId": "user_mt0n1lxzt33z",
+      "fromUserName": "33221178",
+      "toUserId": "user_mszw2cit2iq7",
+      "status": "pending",
+      "timestamp": 1787177019594
     }
   ]
 }

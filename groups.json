@@ -11,6 +11,28 @@
       "memberCount": 1,
       "isDeleted": true,
       "type": "group"
+    },
+    {
+      "groupId": "group_mt0n7xge1ldc",
+      "groupCode": "682483",
+      "groupName": "DSMOD聊天群",
+      "avatar": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/avatars/avatar_group_temp_1787177293860.png",
+      "creatorId": "user_mt0n1lxzt33z",
+      "creatorName": "33221178",
+      "createdAt": 1787177298974,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group",
+      "announcement": "欢迎加入本群！",
+      "pinnedAnnouncement": "",
+      "joinMode": "direct",
+      "joinQuestion": "",
+      "joinAnswer": "",
+      "bannedMembers": [],
+      "welcomeMessage": "",
+      "onlyAdminCanSpeak": false,
+      "allMuted": false,
+      "sensitiveFilterEnabled": false
     }
   ]
 }

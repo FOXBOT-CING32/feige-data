@@ -43,7 +43,7 @@
       "content": "@",
       "type": "text",
       "timestamp": 1787129941765,
-      "read": false
+      "read": true
     },
     {
       "id": "msg_mszv11b3xja4",
@@ -52,7 +52,7 @@
       "content": "66666",
       "type": "text",
       "timestamp": 1787129948127,
-      "read": false
+      "read": true
     },
     {
       "id": "msg_mszv167eoxs0",
@@ -61,7 +61,7 @@
       "content": "114514",
       "type": "text",
       "timestamp": 1787129954474,
-      "read": false
+      "read": true
     }
   ]
 }

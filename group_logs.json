@@ -9,6 +9,16 @@
       "targetId": null,
       "detail": "群聊已解散",
       "timestamp": 1787176477252
+    },
+    {
+      "id": "log_mt0n7zfjpudd",
+      "groupId": "group_mt0n7xge1ldc",
+      "operatorId": "user_mt0n1lxzt33z",
+      "operatorName": "",
+      "action": "创建群聊",
+      "targetId": null,
+      "detail": "创建了群聊: DSMOD聊天群",
+      "timestamp": 1787177301535
     }
   ]
 }

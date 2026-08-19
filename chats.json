@@ -62,6 +62,15 @@
       "type": "text",
       "timestamp": 1787129954474,
       "read": true
+    },
+    {
+      "id": "msg_mszv22izyjcl",
+      "fromUserId": "user_msxdhdzfv6m8",
+      "toUserId": "user_mswvbkqbu8p7",
+      "content": "你个傻逼",
+      "type": "text",
+      "timestamp": 1787129996363,
+      "read": false
     }
   ]
 }

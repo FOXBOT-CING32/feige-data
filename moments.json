@@ -10,7 +10,15 @@
       "timestamp": 1787129560994,
       "isPublic": false,
       "likes": [],
-      "comments": []
+      "comments": [
+        {
+          "id": "c_mszuvaqi3tx1",
+          "userId": "user_msxdhdzfv6m8",
+          "userName": "FOX BOT",
+          "content": "那很神圣了😋",
+          "timestamp": 1787129680410
+        }
+      ]
     }
   ]
 }

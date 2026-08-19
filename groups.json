@@ -68,6 +68,18 @@
       "memberCount": 1,
       "isDeleted": false,
       "type": "group"
+    },
+    {
+      "groupId": "group_mszuyry8ii3t",
+      "groupCode": "051087",
+      "groupName": "聊天群21",
+      "avatar": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/avatars/avatar_group_temp_1787129833520.png",
+      "creatorId": "user_mswvbkqbu8p7",
+      "creatorName": "78物业",
+      "createdAt": 1787129842688,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group"
     }
   ]
 }

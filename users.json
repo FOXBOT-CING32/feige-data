@@ -21,7 +21,13 @@
       "registerTime": 1786949041331,
       "birthday": "",
       "phone": "",
-      "wechat": ""
+      "wechat": "",
+      "privacy": {
+        "friendMoment": "friends",
+        "square": "all",
+        "phone": "all",
+        "friendRequest": "all"
+      }
     },
     {
       "userId": "guest_msx3hio0xw50",

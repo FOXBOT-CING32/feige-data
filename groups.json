@@ -1,1 +1,16 @@
-
+{
+  "groups": [
+    {
+      "groupId": "group_mszw73rfj5ah",
+      "groupCode": "614984",
+      "groupName": "DSMOD交流群",
+      "avatar": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/avatars/avatar_group_temp_1787131901777.png",
+      "creatorId": "user_mszw2cit2iq7",
+      "creatorName": "半条命2跑路王",
+      "createdAt": 1787131910859,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group"
+    }
+  ]
+}

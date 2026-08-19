@@ -1,1 +1,13 @@
-
+{
+  "chats": [
+    {
+      "id": "msg_mt0n39pkbxy3",
+      "fromUserId": "guest_mt0mwb4bjx6t",
+      "toUserId": "user_mt0n1lxzt33z",
+      "content": "在吗？",
+      "type": "text",
+      "timestamp": 1787177081576,
+      "read": false
+    }
+  ]
+}

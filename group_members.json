@@ -7,6 +7,18 @@
       "role": "owner",
       "joinedAt": 1787131912414,
       "isActive": false
+    },
+    {
+      "groupId": "group_mt0n7xge1ldc",
+      "userId": "user_mt0n1lxzt33z",
+      "userName": "33221178",
+      "groupNickname": "",
+      "role": "owner",
+      "joinedAt": 1787177300015,
+      "isActive": true,
+      "isMuted": false,
+      "mutedUntil": 0,
+      "mutedBy": ""
     }
   ]
 }

@@ -35,6 +35,15 @@
       "type": "text",
       "timestamp": 1787014864070,
       "read": true
+    },
+    {
+      "id": "msg_mszv0wedb63h",
+      "fromUserId": "user_mswvbkqbu8p7",
+      "toUserId": "user_msxdhdzfv6m8",
+      "content": "@",
+      "type": "text",
+      "timestamp": 1787129941765,
+      "read": false
     }
   ]
 }

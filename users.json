@@ -9,7 +9,13 @@
       "region": "地球",
       "signature": "一位普通的半条命2玩家😍",
       "avatar": "",
-      "registerTime": 1787131688933
+      "registerTime": 1787131688933,
+      "privacy": {
+        "friendMoment": "friends",
+        "square": "all",
+        "phone": "all",
+        "friendRequest": "all"
+      }
     }
   ]
 }

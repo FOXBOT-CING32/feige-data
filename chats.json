@@ -25,7 +25,7 @@
       "content": "666",
       "type": "text",
       "timestamp": 1787013598591,
-      "read": false
+      "read": true
     },
     {
       "id": "msg_msxyidvpl9rq",
@@ -34,7 +34,7 @@
       "content": "在吗，在吗😍",
       "type": "text",
       "timestamp": 1787014864070,
-      "read": false
+      "read": true
     }
   ]
 }

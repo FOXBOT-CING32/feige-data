@@ -46,6 +46,14 @@
       "role": "member",
       "joinedAt": 1787014844533,
       "isActive": false
+    },
+    {
+      "groupId": "group_mszuyry8ii3t",
+      "userId": "user_mswvbkqbu8p7",
+      "userName": "78物业",
+      "role": "owner",
+      "joinedAt": 1787129844283,
+      "isActive": true
     }
   ]
 }

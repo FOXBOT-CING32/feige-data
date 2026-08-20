@@ -26,6 +26,15 @@
       "toUserId": "guest_mt0mwb4bjx6t",
       "status": "accepted",
       "timestamp": 1787177031727
+    },
+    {
+      "id": "notif_mt1dbyg7hmbh",
+      "type": "friend_request",
+      "fromUserId": "user_mt1da9w9bql8",
+      "fromUserName": "DSMOD",
+      "toUserId": "user_mt14w59f4hjb",
+      "status": "pending",
+      "timestamp": 1787221156903
     }
   ]
 }

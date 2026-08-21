@@ -29,6 +29,16 @@
       "targetId": null,
       "detail": "创建了群聊: DSMOD模组聊天群",
       "timestamp": 1787207705306
+    },
+    {
+      "id": "log_mt2poz5rx02d",
+      "groupId": "group_mt2povq9bm16",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "",
+      "action": "创建群聊",
+      "targetId": null,
+      "detail": "创建了群聊: DSMOD聊天群",
+      "timestamp": 1787302385919
     }
   ]
 }

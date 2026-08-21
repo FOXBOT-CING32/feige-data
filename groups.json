@@ -18,7 +18,7 @@
       "joinAnswer": "",
       "bannedMembers": [],
       "welcomeMessage": "",
-      "onlyAdminCanSpeak": true,
+      "onlyAdminCanSpeak": false,
       "allMuted": false,
       "sensitiveFilterEnabled": false
     }

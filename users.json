@@ -13,7 +13,13 @@
       "registerTime": 1787206982307,
       "verifyCode": "123456",
       "online": true,
-      "lastOnline": 1787302391286
+      "lastOnline": 1787302391286,
+      "privacy": {
+        "friendMoment": "friends",
+        "square": "all",
+        "phone": "all",
+        "friendRequest": "all"
+      }
     },
     {
       "userId": "user_mt1da9w9bql8",

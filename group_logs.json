@@ -49,6 +49,16 @@
       "targetId": null,
       "detail": "",
       "timestamp": 1787302401884
+    },
+    {
+      "id": "log_mt2ppgfo8kwc",
+      "groupId": "group_mt2povq9bm16",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "",
+      "action": "关闭仅管理可发言",
+      "targetId": null,
+      "detail": "",
+      "timestamp": 1787302408308
     }
   ]
 }

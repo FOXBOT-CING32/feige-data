@@ -35,6 +35,15 @@
       "type": "image",
       "timestamp": 1787350788212,
       "read": false
+    },
+    {
+      "id": "msg_mt3iitaolhbj",
+      "fromUserId": "user_mt14w59f4hjb",
+      "toUserId": "user_mt1da9w9bql8",
+      "content": "🤓🤓🤓",
+      "type": "text",
+      "timestamp": 1787350807248,
+      "read": false
     }
   ]
 }

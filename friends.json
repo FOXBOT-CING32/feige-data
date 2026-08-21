@@ -9,6 +9,16 @@
       "userId": "guest_mt0mwb4bjx6t",
       "friendId": "user_mt0n1lxzt33z",
       "timestamp": 1787177052472
+    },
+    {
+      "userId": "user_mt1da9w9bql8",
+      "friendId": "user_mt14w59f4hjb",
+      "timestamp": 1787302284152
+    },
+    {
+      "userId": "user_mt14w59f4hjb",
+      "friendId": "user_mt1da9w9bql8",
+      "timestamp": 1787302284152
     }
   ]
 }

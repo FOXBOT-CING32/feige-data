@@ -1,3 +1,13 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "id": "gmsg_mt57sqqyii3h",
+      "groupId": "group_mt2povq9bm16",
+      "userId": "system",
+      "userName": "系统",
+      "content": "半条命2跑路王 转发了动态: emo了",
+      "type": "system",
+      "timestamp": 1787453727082
+    }
+  ]
 }

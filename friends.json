@@ -29,16 +29,6 @@
       "userId": "user_mt1da9w9bql8",
       "friendId": "guest_mt57y1vsg8lf",
       "timestamp": 1787454093587
-    },
-    {
-      "userId": "guest_mt57y1vsg8lf",
-      "friendId": "user_mt14w59f4hjb",
-      "timestamp": 1787454410077
-    },
-    {
-      "userId": "user_mt14w59f4hjb",
-      "friendId": "guest_mt57y1vsg8lf",
-      "timestamp": 1787454410077
     }
   ]
 }

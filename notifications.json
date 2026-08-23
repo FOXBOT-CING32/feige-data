@@ -35,6 +35,15 @@
       "toUserId": "user_mt14w59f4hjb",
       "status": "accepted",
       "timestamp": 1787221156903
+    },
+    {
+      "id": "notif_mt57z2grdw5w",
+      "type": "friend_request",
+      "fromUserId": "guest_mt57y1vsg8lf",
+      "fromUserName": "FG_ETAYO1843",
+      "toUserId": "user_mt1da9w9bql8",
+      "status": "pending",
+      "timestamp": 1787454022203
     }
   ]
 }

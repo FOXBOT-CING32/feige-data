@@ -19,7 +19,23 @@
         "square": "all",
         "phone": "all",
         "friendRequest": "all"
-      }
+      },
+      "devices": [
+        {
+          "id": "device_mt59ohui",
+          "userId": "user_mt14w59f4hjb",
+          "name": "Android 手机",
+          "os": "Android 8.1",
+          "type": "mobile",
+          "icon": "fa-mobile-alt",
+          "browser": "Chrome",
+          "loginTime": "8月23日下午12:09",
+          "timestamp": 1787458190111,
+          "isCurrent": true,
+          "ip": "未知",
+          "location": "未知"
+        }
+      ]
     },
     {
       "userId": "user_mt1da9w9bql8",

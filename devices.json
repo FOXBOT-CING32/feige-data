@@ -8,12 +8,12 @@
       "type": "mobile",
       "icon": "fa-mobile-alt",
       "browser": "Chrome",
-      "loginTime": "8月23日下午12:20",
-      "timestamp": 1787458830919,
+      "loginTime": "8月23日下午01:05",
+      "timestamp": 1787461518690,
       "isCurrent": true,
       "ip": "未知",
-      "location": "未知"
+      "location": "未知",
+      "lastActive": 1787461518690
     }
-  ],
-  "updatedAt": 1787457928480
+  ]
 }

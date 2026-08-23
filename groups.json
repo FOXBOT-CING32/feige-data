@@ -21,6 +21,28 @@
       "onlyAdminCanSpeak": false,
       "allMuted": false,
       "sensitiveFilterEnabled": false
+    },
+    {
+      "groupId": "group_mt5u2l9k8npm",
+      "groupCode": "490603",
+      "groupName": "dsmod聊天群",
+      "avatar": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/avatars/avatar_group_temp_1787491123162.jpg",
+      "creatorId": "user_mt14w59f4hjb",
+      "creatorName": "半条命2跑路王",
+      "createdAt": 1787491138088,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group",
+      "announcement": "欢迎加入本群！",
+      "pinnedAnnouncement": "",
+      "joinMode": "direct",
+      "joinQuestion": "",
+      "joinAnswer": "",
+      "bannedMembers": [],
+      "welcomeMessage": "",
+      "onlyAdminCanSpeak": false,
+      "allMuted": false,
+      "sensitiveFilterEnabled": false
     }
   ]
 }

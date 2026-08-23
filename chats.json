@@ -52,7 +52,7 @@
       "content": "😅",
       "type": "text",
       "timestamp": 1787454112721,
-      "read": false
+      "read": true
     },
     {
       "id": "msg_mt5814qtt3so",
@@ -61,7 +61,7 @@
       "content": "6666",
       "type": "text",
       "timestamp": 1787454118469,
-      "read": false
+      "read": true
     }
   ]
 }

@@ -8,12 +8,12 @@
       "type": "mobile",
       "icon": "fa-mobile-alt",
       "browser": "Chrome",
-      "loginTime": "8月23日上午11:52",
-      "timestamp": 1787457134492,
+      "loginTime": "8月23日上午11:54",
+      "timestamp": 1787457284739,
       "isCurrent": true,
-      "ip": "获取失败",
-      "location": "获取失败"
+      "ip": "116.19.201.141",
+      "location": "Guangzhou, Guangdong, China"
     }
   ],
-  "updatedAt": 1787457134496
+  "updatedAt": 1787457284792
 }

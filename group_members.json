@@ -43,6 +43,18 @@
       "isMuted": false,
       "mutedUntil": 0,
       "mutedBy": ""
+    },
+    {
+      "groupId": "group_mt5u2l9k8npm",
+      "userId": "user_mt14w59f4hjb",
+      "userName": "半条命2跑路王",
+      "groupNickname": "",
+      "role": "owner",
+      "joinedAt": 1787491139034,
+      "isActive": true,
+      "isMuted": false,
+      "mutedUntil": 0,
+      "mutedBy": ""
     }
   ]
 }

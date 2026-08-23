@@ -59,6 +59,16 @@
       "targetId": null,
       "detail": "",
       "timestamp": 1787302408308
+    },
+    {
+      "id": "log_mt5u2n4nudvw",
+      "groupId": "group_mt5u2l9k8npm",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "",
+      "action": "创建群聊",
+      "targetId": null,
+      "detail": "创建了群聊: dsmod聊天群",
+      "timestamp": 1787491140503
     }
   ]
 }

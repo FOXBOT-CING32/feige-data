@@ -1,0 +1,19 @@
+{
+  "devices": [
+    {
+      "id": "device_mt59ohui",
+      "userId": "user_mt14w59f4hjb",
+      "name": "Android 手机",
+      "os": "Android 8.1",
+      "type": "mobile",
+      "icon": "fa-mobile-alt",
+      "browser": "Chrome",
+      "loginTime": "8月23日上午11:52",
+      "timestamp": 1787457134492,
+      "isCurrent": true,
+      "ip": "获取失败",
+      "location": "获取失败"
+    }
+  ],
+  "updatedAt": 1787457134496
+}

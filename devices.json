@@ -3,21 +3,22 @@
     {
       "id": "device_mt59ohui",
       "userId": "user_mt14w59f4hjb",
-      "name": "Android 手机",
+      "name": "Linux",
       "os": "Android 8.1",
       "type": "mobile",
-      "icon": "fa-mobile-alt",
+      "icon": "fab fa-linux",
       "browser": "Chrome",
-      "loginTime": "8月23日下午01:05",
-      "timestamp": 1787461548173,
+      "loginTime": "8月23日下午01:16",
+      "timestamp": 1787462210020,
       "isCurrent": true,
       "ip": "116.19.201.141",
       "location": "Guangzhou, Guangdong, China",
-      "lastActive": 1787461908680,
+      "lastActive": 1787462210020,
       "city": "Guangzhou",
       "region": "Guangdong",
       "country": "China",
-      "isp": "Chinanet"
+      "isp": "Chinanet",
+      "color": "#FCC624"
     }
   ]
 }

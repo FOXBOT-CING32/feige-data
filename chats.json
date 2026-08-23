@@ -25,7 +25,7 @@
       "content": "666",
       "type": "text",
       "timestamp": 1787324022154,
-      "read": false
+      "read": true
     },
     {
       "id": "msg_mt3iielwswq0",
@@ -34,7 +34,7 @@
       "content": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/chats/chat_user_mt14w59f4hjb_user_mt1da9w9bql8_1787350784258.jpg",
       "type": "image",
       "timestamp": 1787350788212,
-      "read": false
+      "read": true
     },
     {
       "id": "msg_mt3iitaolhbj",
@@ -43,7 +43,7 @@
       "content": "🤓🤓🤓",
       "type": "text",
       "timestamp": 1787350807248,
-      "read": false
+      "read": true
     }
   ]
 }

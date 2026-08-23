@@ -33,6 +33,20 @@
       "avatar": "https://cdn.jsdelivr.net/gh/FOXBOT-CING32/feige-data/images/avatars/avatar_user_mt1da9w9bql8.png",
       "registerTime": 1787221078426,
       "verifyCode": "332211"
+    },
+    {
+      "userId": "guest_mt57y1vsg8lf",
+      "uid": "892SFCZ7",
+      "email": "",
+      "password": "",
+      "nickname": "FG_ETAYO1843",
+      "type": "guest",
+      "gender": "保密",
+      "region": "未知",
+      "signature": "游客模式，畅游飞鸽",
+      "avatar": "",
+      "registerTime": 1787453974792,
+      "verifyCode": ""
     }
   ]
 }

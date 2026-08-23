@@ -4,21 +4,23 @@
       "id": "device_mt59ohui",
       "userId": "user_mt14w59f4hjb",
       "name": "Android 手机",
-      "os": "Android 8.1.0",
+      "os": "Android 8.1",
       "type": "mobile",
       "icon": "fab fa-android",
       "browser": "Chrome",
       "loginTime": "8月23日下午09:24",
-      "timestamp": 1787491454979,
+      "timestamp": 1787491489336,
       "isCurrent": true,
       "ip": "116.19.201.141",
       "location": "Guangzhou, Guangdong, China",
-      "lastActive": 1787491454979,
+      "lastActive": 1787491489336,
       "city": "Guangzhou",
       "region": "Guangdong",
       "country": "China",
       "isp": "Chinanet",
-      "color": "#3DDC84"
+      "color": "#3DDC84",
+      "system": "Android",
+      "displayName": "Android 8.1"
     }
   ]
 }

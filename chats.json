@@ -44,6 +44,15 @@
       "type": "text",
       "timestamp": 1787350807248,
       "read": true
+    },
+    {
+      "id": "msg_mt5810b5xlo9",
+      "fromUserId": "user_mt1da9w9bql8",
+      "toUserId": "user_mt14w59f4hjb",
+      "content": "😅",
+      "type": "text",
+      "timestamp": 1787454112721,
+      "read": false
     }
   ]
 }

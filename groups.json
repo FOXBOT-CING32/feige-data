@@ -107,7 +107,7 @@
       "bannedMembers": [],
       "welcomeMessage": "",
       "onlyAdminCanSpeak": false,
-      "allMuted": true,
+      "allMuted": false,
       "sensitiveFilterEnabled": false
     }
   ]

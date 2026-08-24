@@ -109,6 +109,16 @@
       "targetId": null,
       "detail": "改为: apply",
       "timestamp": 1787611858546
+    },
+    {
+      "id": "log_mt7tz6ohm85x",
+      "groupId": "group_mt776huypsut",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "",
+      "action": "开启全员禁言",
+      "targetId": null,
+      "detail": "",
+      "timestamp": 1787611911569
     }
   ]
 }

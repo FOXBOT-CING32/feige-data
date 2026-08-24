@@ -119,6 +119,16 @@
       "targetId": null,
       "detail": "",
       "timestamp": 1787611911569
+    },
+    {
+      "id": "log_mt7tzi5gtr2y",
+      "groupId": "group_mt776huypsut",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "",
+      "action": "关闭全员禁言",
+      "targetId": null,
+      "detail": "",
+      "timestamp": 1787611926436
     }
   ]
 }

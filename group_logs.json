@@ -79,6 +79,16 @@
       "targetId": null,
       "detail": "创建了群聊: 聊天群",
       "timestamp": 1787559673487
+    },
+    {
+      "id": "log_mt6zv28ah2wi",
+      "groupId": "group_mt6zuzabzj41",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "",
+      "action": "创建群聊",
+      "targetId": null,
+      "detail": "创建了群聊: 聊天群",
+      "timestamp": 1787561330698
     }
   ]
 }

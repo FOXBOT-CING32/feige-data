@@ -101,7 +101,7 @@
       "type": "group",
       "announcement": "欢迎加入本群！",
       "pinnedAnnouncement": "",
-      "joinMode": "direct",
+      "joinMode": "apply",
       "joinQuestion": "",
       "joinAnswer": "",
       "bannedMembers": [],

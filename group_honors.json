@@ -1,0 +1,53 @@
+{
+  "honors": [
+    {
+      "id": "honor_owner",
+      "name": "群主",
+      "icon": "fa-crown",
+      "color": "#FF9500",
+      "description": "群聊创建者",
+      "isDefault": true
+    },
+    {
+      "id": "honor_admin",
+      "name": "管理员",
+      "icon": "fa-shield",
+      "color": "#007AFF",
+      "description": "群聊管理员",
+      "isDefault": true
+    },
+    {
+      "id": "honor_dragon",
+      "name": "龙王",
+      "icon": "fa-crown",
+      "color": "#FFCC00",
+      "description": "今日发言最多",
+      "isDefault": true
+    },
+    {
+      "id": "honor_active",
+      "name": "活跃之星",
+      "icon": "fa-star",
+      "color": "#007AFF",
+      "description": "本周发言最多",
+      "isDefault": true
+    },
+    {
+      "id": "honor_new",
+      "name": "新人王",
+      "icon": "fa-rocket",
+      "color": "#34C759",
+      "description": "刚加入就活跃",
+      "isDefault": true
+    },
+    {
+      "id": "honor_diver",
+      "name": "潜水王",
+      "icon": "fa-fish",
+      "color": "#5AC8FA",
+      "description": "从不发言",
+      "isDefault": true
+    }
+  ],
+  "userHonors": {}
+}

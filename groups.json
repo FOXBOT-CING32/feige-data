@@ -65,6 +65,28 @@
       "onlyAdminCanSpeak": false,
       "allMuted": false,
       "sensitiveFilterEnabled": false
+    },
+    {
+      "groupId": "group_mt6zuzabzj41",
+      "groupCode": "772765",
+      "groupName": "聊天群",
+      "avatar": "",
+      "creatorId": "user_mt14w59f4hjb",
+      "creatorName": "半条命2跑路王",
+      "createdAt": 1787561326883,
+      "memberCount": 1,
+      "isDeleted": false,
+      "type": "group",
+      "announcement": "欢迎加入本群！",
+      "pinnedAnnouncement": "",
+      "joinMode": "direct",
+      "joinQuestion": "",
+      "joinAnswer": "",
+      "bannedMembers": [],
+      "welcomeMessage": "",
+      "onlyAdminCanSpeak": false,
+      "allMuted": false,
+      "sensitiveFilterEnabled": false
     }
   ]
 }

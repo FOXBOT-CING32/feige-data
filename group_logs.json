@@ -99,6 +99,16 @@
       "targetId": null,
       "detail": "创建了群聊: DSMOD模组交流群",
       "timestamp": 1787573625886
+    },
+    {
+      "id": "log_mt7ty1rmocwk",
+      "groupId": "group_mt776huypsut",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "",
+      "action": "修改加群方式",
+      "targetId": null,
+      "detail": "改为: apply",
+      "timestamp": 1787611858546
     }
   ]
 }

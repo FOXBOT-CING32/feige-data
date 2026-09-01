@@ -139,6 +139,16 @@
       "targetId": null,
       "detail": "改为: apply",
       "timestamp": 1788268426173
+    },
+    {
+      "id": "log_mtip9pa2plf7",
+      "groupId": "group_mt776huypsut",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "半条命2跑路王",
+      "action": "修改群公告",
+      "targetId": null,
+      "detail": "更新了群公告",
+      "timestamp": 1788269132090
     }
   ]
 }

@@ -3,7 +3,7 @@
     {
       "groupId": "group_mt776huypsut",
       "name": "群管家",
-      "enabled": true,
+      "enabled": false,
       "welcome": true,
       "remind": false,
       "warn": true,

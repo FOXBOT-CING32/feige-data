@@ -47,7 +47,22 @@
       "color": "#5AC8FA",
       "description": "从不发言",
       "isDefault": true
+    },
+    {
+      "id": "honor_mtip8yshgynv",
+      "groupId": "group_mt776huypsut",
+      "name": "生化母体",
+      "icon": "fa-biohazard",
+      "color": "#34C759",
+      "description": "牛逼克拉斯",
+      "createdBy": "user_mt14w59f4hjb",
+      "createdAt": 1788269097761,
+      "isDefault": false
     }
   ],
-  "userHonors": {}
+  "userHonors": {
+    "user_mt14w59f4hjb": [
+      "honor_mtip8yshgynv"
+    ]
+  }
 }

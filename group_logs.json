@@ -129,6 +129,16 @@
       "targetId": null,
       "detail": "",
       "timestamp": 1787611926436
+    },
+    {
+      "id": "log_mtioukl96bts",
+      "groupId": "group_mt776huypsut",
+      "operatorId": "user_mt14w59f4hjb",
+      "operatorName": "半条命2跑路王",
+      "action": "修改加群方式",
+      "targetId": null,
+      "detail": "改为: apply",
+      "timestamp": 1788268426173
     }
   ]
 }
